@@ -1,0 +1,131 @@
+/* ============================= */
+/*         MUSEO SANS           */
+/* ============================= */
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fontns.com-Museo_Sans_100.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fontns.com-Museo_Sans_100_Italic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_300.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_300_Italic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_500.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_500_Italic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_700.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_700_Italic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_900.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoSans';
+  src: url('../fonts/fonnts.com-Museo_Sans_900_Italic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* ============================= */
+/*     MUSEO SANS ROUNDED       */
+/* ============================= */
+
+@font-face {
+  font-family: 'MuseoRounded';
+  src: url('../fonts/fonnts.com-Museo_Sans_Rounded_100.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoRounded';
+  src: url('../fonts/fonnts.com-Museo_Sans_Rounded_300.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoRounded';
+  src: url('../fonts/fonnts.com-Museo_Sans_Rounded_500.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoRounded';
+  src: url('../fonts/fonnts.com-Museo_Sans_Rounded_700.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoRounded';
+  src: url('../fonts/fonnts.com-Museo_Sans_Rounded_900.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MuseoRounded';
+  src: url('../fonts/fonnts.com-Museo_Sans_Rounded_1000.otf') format('opentype');
+  font-weight: 1000;
+  font-style: normal;
+}
+/* ============================= */
+/*     APLICACIÓN GLOBAL        */
+/* ============================= */
+
+body {
+  font-family: 'MuseoSans', sans-serif;
+}
+
+/* Clase opcional para títulos redondeados */
+.font-rounded {
+  font-family: 'MuseoRounded', sans-serif;
+}
